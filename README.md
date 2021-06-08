@@ -29,7 +29,7 @@ Staging: [http://www2.3bot.org/](https://www2.3bot.org/)
 
 [wiki.3bot.org](http://wiki.3bot.org/)
 
-staging: [wiki2.enertia.io](http://wiki2.enertia.io)
+staging: [wiki2.enertia.io](http://wiki2.3bot.org)
 
 ### FreeFlowPages
 https://freeflowpages.com/s/3bot/
